@@ -6,7 +6,7 @@
 ### javascript 優良部分
 <img src="https://github.com/paul61843/Study-BookList-JS/blob/master/javascript%E5%84%AA%E8%89%AF%E9%83%A8%E5%88%86.jpg" width="100">
 目前這本書快速翻閱了一半左右，裡面將重點放在比較好的寫法上，以及書本最後將js有問題的方式和語法整理在一個章節，但出版時間在ES6以前，有些方法在現在有更好的方式可以解決了，適合寫一段時間code的使用者，和想更進的用戶上。
-
+/n
 推薦★★☆☆☆
 
 -----
